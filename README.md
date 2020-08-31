@@ -11,5 +11,7 @@ File Decriptions:
 
 TFIDF_Model.ipynb: Includes code for creation of the Term Frequency-Inverse Document Frequency model and evalutation of the model through a confusion matrix and a receiver operating characteristic curve. 
 
+Frequency_Stopwords.ipynb: Frequency and keyword analysis of Tweets to get a better understanding of words that commonly appear in bullying/non-bullying related Tweets. Removes stopwords to focus on noncommon words. 
 
+Graphs_Statistics.ipynb: Uses user account data to create graphs and conduct statistics tests to test relations between account metadata and bullying/non-bullying related activity. 
 
